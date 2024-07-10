@@ -1,4 +1,4 @@
-# libftprintf
+# ft_printf
 
 This project implements a custom version of the `printf` function from the C standard library, enhanced with additional functionalities. It includes various utility functions to support its operations.
 
